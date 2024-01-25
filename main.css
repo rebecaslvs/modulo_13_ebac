@@ -1,0 +1,39 @@
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: rgba(186, 124, 24, 0.468);
+}
+
+.nav-link {
+    padding-left: 3vh;
+}
+
+header {
+    border-bottom: solid 4px rgb(186, 124, 24);
+}
+
+.container-carrossel {
+    border-bottom: solid 4px rgb(186, 124, 24);
+}
+
+.container h1 {
+    margin-top: 1vh;
+    margin-bottom: 2vh;
+}
+
+.card .btn {
+    background-color: rgb(186, 124, 24);
+    border: none;
+}
+
+.btn {
+    position: relative;
+}
+
+.btn:hover {
+    background-color: rgb(131, 88, 19);
+    border: none;
+}
+
+.card img {
+    height: 100%;
+    width: auto;
+}
